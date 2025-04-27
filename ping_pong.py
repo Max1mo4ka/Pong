@@ -41,8 +41,8 @@ window = display.set_mode((win_width, win_height))
 music_files = [
     'candyland.ogg',
     'theonlythingtheyfearisyou.ogg',
-    'clubstep.ogg',
-    'unholyinsurgence.ogg',
+    'stereomadness.ogg',
+    'unholyinsurgency.ogg',
     'finale.ogg'
 ]
 
